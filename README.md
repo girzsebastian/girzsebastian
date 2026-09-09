@@ -1,4 +1,4 @@
-# Hi, I'm Sebastian Girz 👋
+# Hi, I'm Sebastian 👋
 
 AI Integration Strategist and founder of [Kerrsid](https://kerrsid.com). Based in Romania, working remotely with companies in the US and Europe.
 
