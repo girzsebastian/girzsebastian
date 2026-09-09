@@ -13,7 +13,7 @@ I've been building software for businesses since 2020 and running my own company
 
 ## How I work
 
-Leadership, project management and public speaking are as much part of my job as code. I run discovery with clients, lead teams, present to stakeholders and turn messy processes into clear systems that people actually use.
+I'm a hands-on builder, not a slide-deck person. I'm in the code every day, working with AI tools and agents as part of the workflow, not as a demo. I run discovery with clients, lead small teams and turn messy processes into systems that people actually use.
 
 ## Tools I use
 
